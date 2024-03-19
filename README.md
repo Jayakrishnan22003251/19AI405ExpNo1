@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Jayamani.R</h3>
-<h3>Register Number: 21222100014</h3>
+<h3>Name: Jayakrishnan L B L</h3>
+<h3>Register Number: 212222230052</h3>
 
 
 <h3>AIM:</h3>
